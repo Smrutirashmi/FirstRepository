@@ -1,2 +1,0 @@
-user name=rashmi
-password=1245
